@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongo:
+      database: memo
+      host: localhost
+      port: 27017
